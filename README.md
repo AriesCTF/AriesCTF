@@ -25,7 +25,7 @@ If you've ever opened a challenge and thought, “Where do I even start?”, you
 
 - [Beginner Walkthroughs](./walkthroughs)
 - [Tool Libraries](./command-libraries)
-- [Learning Paths](./learning-roadmaps)
+- [Cheatsheets](./cheatsheets)
 
 ## 🧵 Connect & Collaborate
 
